@@ -8,9 +8,9 @@
     "text": "Chaitali Patel"
   },
   "text": {
-    "more": "The nodes are Head category and sub category and egdes are relstionship between them.",
-    "intro": "Spaced Database Head Category/ Sub category",
-    "title": "Spaced Linkdln Database"
+    "more": "The nodes are Category and Instagram Username and egdes are relstionship between them.",
+    "intro": "Spaced Database Category/ Instagram Username",
+    "title": "Spaced Instagram Database"
   },
   "legend": {
     "edgeLabel": "Relationship",
